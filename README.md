@@ -1,2 +1,11 @@
 # hello-world
-My First Repository
+
+Hello folks!
+
+I am Vinjul Agarwal , Developer and always concatenate With Hardwares.
+I belive in Making an error; miss an opportunity; fail..................
+Now the journey will will amaze YOU!
+@Python
+@Javascript
+@Salesoforce
+@MySQL
